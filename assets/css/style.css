@@ -198,18 +198,3 @@ footer h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-@media screen and (max-width: 920px) {
-    
-    header section {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    header section ol {
-        display: flex;
-        flex-direction: column;
-        font-size: 1.0rem;
-    } 
-}

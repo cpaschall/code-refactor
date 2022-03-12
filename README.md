@@ -46,11 +46,5 @@ A client has asked us to refactor the HTML and CSS files of their website's main
 ## Final Product
   
 The final webpage should should appear unaltered from the orginal source code when viewed in a browser.  Below is how the page is expected to appear.
-
-Desktop:
   
-![Horiseon Main Page](./Develop/assets/images/horiseon-desktop.png)
-
-Mobile:
-
-![Horiseon Main Page](./Develop/assets/images/horiseon-mobile.png)
+![Horiseon Main Page](./assets/images/horiseon-desktop.png)
